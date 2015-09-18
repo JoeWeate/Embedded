@@ -1,2 +1,2 @@
 # Embedded
-Programming done on a MSP430
+Programming done on a MSP430; Various projects
